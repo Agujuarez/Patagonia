@@ -14,9 +14,11 @@ debug.log
 
 # Ignorar dependencias y archivos generados
 __pycache__/
+staticfiles/
 *.pyc
 *.pyo
 *.sqlite3
+.coverage
 
 # Ignorar archivos de compilación de Python
 *.egg-info/
